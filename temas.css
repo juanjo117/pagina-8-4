@@ -2,32 +2,32 @@
     
     width: 100%;
     height: 1400px;
-    background-color: goldenrod;
+    background-color: srgb(152, 66, 223);
 }
 .encabezado{
 
     width: 100%;
     height: 150px;
-    background-color: rgb(231, 231, 84);
+    background-color: rgb(66, 224, 245);
 }
 .menu{
-
+display: flex;
     width: 100%;
     height: 100px;
-    background-color: rgb(200, 200, 57);
-}
+    background-color: rgb(96, 221, 221);
+} 
 .contenedor2{
 
     width: 100%;
     height: 1200px;
-    background-color: rgb(245, 245, 33);
+    background-color: rgb(142, 89, 228);
     display: flex;
 }
 .izquierdo{
 
     width: 20%;
     height: 1200px;
-    background-color: peru;
+    background-color: rgb(63, 108, 205);
 }
 .centro{
 
@@ -39,5 +39,42 @@
 
     width: 20%;
     height: 1200px;
-    background-color: peru;
+    background-color: rgb(63, 106, 205);
+}
+.tecnologia{
+margin: 4px;
+height: 98px;
+width: 100px;
+background-color: aquamarine;
+    
+} 
+.sociales{
+margin: 4px;
+    height:98px ;
+    width:100px ;
+    background-color: rgb(80, 209, 177);
+}
+.matematicas{
+margin: 4px;
+    height: 98px;
+    width: 100px;
+    background-color: lightseagreen;
+}
+.biologia{
+margin: 4px;
+    height: 98px;
+    width: 100px;
+    background-color: rgba(195, 153, 219, 0.979);
+}
+.ingles{
+margin: 4px;
+    height: 98px;
+    width: 100px;
+    background-color: rgb(219, 212, 113);
+}
+.etica{
+margin: 4px;
+    height: 98px;
+    width: 100px;
+    background-color: rgb(197, 147, 128);
 }
